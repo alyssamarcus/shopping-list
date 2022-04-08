@@ -1,3 +1,6 @@
 - Apples
 - iPad
 - Almonds
+- iPhone
+- walnuts
+- bananas
